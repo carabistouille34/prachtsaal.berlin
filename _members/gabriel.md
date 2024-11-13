@@ -12,3 +12,5 @@ website: https://gabrieljeanjean.com/
 socials:
   - https://www.instagram.com/gabriel.jeanjean/
 ---
+Gabriel Jeanjean works in the field of arts and technologies.
+He graduated from Strasbourg's school of arts and lives and work Berlin
